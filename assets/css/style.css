@@ -89,6 +89,8 @@ p {
     background-color: #2589bd;
 }
 
+/* Applied properties to multiple classes at once, instead of repeating code */
+
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
